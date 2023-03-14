@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/AlexGorSvami" target="_blank">Alexander</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> I'm  python and C# developer</h3>
+<h3 align="center"> I'm  Python and C# developer from Russia</h3>
 <h4> About me </h4>
 <div id="badges">
      <img src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -19,8 +19,18 @@
      <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     <img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
+<img src = "https://github-profile-trophy.vercel.app/?username=AlexGorSvami">
+<img src = "https://github-readme-stats.vercel.app/api?username=AlexGorSvami">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGorSvami&layout=compact&theme=vision-friendly-dark">
 
 
+
+
+
+
+
+
+<img src="https://komarev.com/ghpvc/?username=AlexGorSvami&style=flat-square&color=blue" alt=""/>
 
 
 
