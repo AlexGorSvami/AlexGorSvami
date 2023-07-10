@@ -21,7 +21,7 @@
 </div>
 <img src = "https://github-profile-trophy.vercel.app/?username=AlexGorSvami">
 <img src = "https://github-readme-stats.vercel.app/api?username=AlexGorSvami">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGorSvami&layout=compact&theme=vision-friendly-dark">
+<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlexGorSvami&&show_icons=true&theme=dark">
 
 
 
@@ -29,8 +29,6 @@
 
 
 
-
-<img src="https://komarev.com/ghpvc/?username=AlexGorSvami&style=flat-square&color=blue" alt=""/>
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?" alt=""/>
 
 
