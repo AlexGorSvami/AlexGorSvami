@@ -19,16 +19,10 @@
      <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     <img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
-<img src = "https://github-profile-trophy.vercel.app/?username=AlexGorSvami">
-<img src = "https://github-readme-stats.vercel.app/api?username=AlexGorSvami">
+<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexGorSvami">
 <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlexGorSvami&&show_icons=true&theme=dark">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=AlexGorSvami">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
-
-
-
-
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?" alt=""/>
-
-
+<img src = "https://komarev.com/ghpvc/?username=AlexGorSvami">
